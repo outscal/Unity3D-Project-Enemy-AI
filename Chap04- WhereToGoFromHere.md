@@ -1,4 +1,4 @@
-## Showcase to the world
+# Showcase to the world
 
 Woooohhooo! You just learned how to make an Enemy AI for the battle tank game.
 
