@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 
 Hello my friend 👋
 
