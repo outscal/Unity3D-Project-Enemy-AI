@@ -203,3 +203,11 @@ public class EnemyView: MonoBehaviour
 Like this, you can implement the State Machine Pattern for the Enemy Tank.
 
 **Note** - Don’t forget to make all the states null, once the enemy tank is destroyed.
+
+---
+## Repository of Battle Tank game
+In order to test your skills, Checkout the repository below for,
+
+Problem Statement and Solution for the Enemy AI for Enemy Tanks of Battle tank game.
+
+https://github.com/outscal/Unity3D-Enemy-AI-Project
