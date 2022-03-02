@@ -1,4 +1,4 @@
-## Steps to implement State Machine Pattern?
+# Steps to implement State Machine Pattern?
 
 There are a few ways you can implement a state pattern in Unity. The better approach is to have each enemy state by its class, which means with a base class that they inherit from.
 
